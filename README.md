@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SUAT
 - 🏢 I graduated from Istanbul University Computer Engineering 
-- 👀 I’m interested in Flutter, Nodejs, Javascript
+- 👀 I’m interested in Flutter, Nodejs, Javascript and Java technologies
 - 🚀 I love learning and putting what I learned into practice.
 
 Contact with me via these platforms!
