@@ -17,7 +17,7 @@ Contact with me via these platforms!
 <a href="https://spring.io/projects/spring-boot"> <img src="https://user-images.githubusercontent.com/81221395/146985591-f7571872-8ff9-481c-a319-bc9c22599bac.png" width="70" /> </a>
 <a href="#"> <img width="10" /> </a>
 <a href="https://www.javascript.com"> <img src="https://user-images.githubusercontent.com/81221395/146993267-99d49a85-ea8e-491b-bd5e-e2eb1aed2f24.png" width="100" /> </a>
-<a href="#"> <img width="10" /> </a>
+<a href="#"> <img width="2" /> </a>
 <a href="https://nodejs.org/en/"> <img src="https://user-images.githubusercontent.com/81221395/146989497-8eb29f04-66ec-4b90-92de-d26ce36d82cf.png" width="100" height="70" /> </a>
 <a href="#"> <img width="25" /> </a>
 <a href="https://dart.dev/"> <img src="https://user-images.githubusercontent.com/81221395/146993568-18d18404-bb6b-483e-bfe2-09c80196bbd5.png" width="135" height="40" /> </a>
