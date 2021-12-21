@@ -1,6 +1,6 @@
 - 👋 Hi, I’m SUAT
 - 🏢 I graduated from Istanbul University Computer Engineering 
-- 👀 I’m interested in Flutter, Nodejs, Java technologies
+- 👀 I’m interested in Java, Nodejs, Flutter technologies
 - 🚀 I love learning and putting what I learned into practice.
 
 Contact with me via these platforms!
@@ -9,6 +9,8 @@ Contact with me via these platforms!
 <a href="https://www.linkedin.com/in/suat-turkoglu/"> <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/> </a>
 
 <h2> 🛠 Technologies & Tools </h2>
+
+
 
 <a href="#"> <img src= "https://miro.medium.com/max/1400/1*jMQ9lkY5SBnbcOlJB4aizg.png" width="100" height="28" /> </a>
 <a href="#"> <img src="https://camo.githubusercontent.com/1994e9cf3b0ad01831975faafe9e8c7ead09cf24b8d5fb6ca45a5d38b4d33549/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465"/> </a>
@@ -20,7 +22,11 @@ Contact with me via these platforms!
 <a href="#"> <img src="https://1.bp.blogspot.com/-y_mI3cvoo4Q/XJfM3e9jdAI/AAAAAAAAOoQ/X2mzom0BQLwwKLWys2BeMec0qewsIyifwCLcBGAs/s1600/Screen%2BShot%2B2019-03-24%2Bat%2B19.28.58.png" width="115.75" height="28" /> </a>
 <a href="#"> <img src="https://camo.githubusercontent.com/783c0ba99432e0f18a998dbbcb3fb46a3f0bb564751c08bbaf138189716c1643/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e5f4157532d3233324633453f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465"/> </a>
 
-<!---
-devSuatt/devSuatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![devSuatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSuatt&count_private=true&hide=contribs,prs&show_icons=true&theme=tokyonight)
+
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSuatt&layout=compact)](https://github.com/devSuatt/devSuatt)
+
+</br>
+
