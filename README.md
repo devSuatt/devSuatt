@@ -16,17 +16,23 @@ Contact with me via these platforms!
 <a href="#"> <img width="30" /> </a>
 <a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146985591-f7571872-8ff9-481c-a319-bc9c22599bac.png" width="70" /> </a>
 <a href="#"> <img width="30" /> </a>
-<a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146989497-8eb29f04-66ec-4b90-92de-d26ce36d82cf.png" width="100" /> </a>
+<a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146993267-99d49a85-ea8e-491b-bd5e-e2eb1aed2f24.png" width="100" /> </a>
+<a href="#"> <img width="10" /> </a>
+<a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146989497-8eb29f04-66ec-4b90-92de-d26ce36d82cf.png" width="100" height="70" /> </a>
 <a href="#"> <img width="25" /> </a>
-<a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146984645-5ed44277-9c5d-4c42-8f61-1d91354f1b21.png" width="50" /> </a>
+<a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146993568-18d18404-bb6b-483e-bfe2-09c80196bbd5.png" width="135" height="40" /> </a>
+<a href="#"> <img width="25" /> </a>
+<a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146984645-5ed44277-9c5d-4c42-8f61-1d91354f1b21.png" width="40" /> </a>
 <a href="#"> <img width="35" /> </a>
-<a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146987659-f9910f56-b0fa-4215-8bfb-b3e9bd8ae8dd.png" width="70" /> </a>
+<a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146987659-f9910f56-b0fa-4215-8bfb-b3e9bd8ae8dd.png" width="54" /> </a>
 <a href="#"> <img width="30" /> </a>
 <a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146985762-8b0ac60d-a219-4c54-848f-88604b6a542d.png" width="110" /> </a>
 <a href="#"> <img width="15" /> </a>
 <a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146988241-e9b117b4-745a-4d71-bc41-752e6f04f2b2.png" width="100" /> </a>
 <a href="#"> <img width="15" /> </a>
 <a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146989183-9990ea5b-4e8e-4cfd-95b9-6479af83f2fb.png" width="55" /> </a>
+
+
 
 </br>
 
