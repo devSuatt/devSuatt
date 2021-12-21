@@ -10,23 +10,31 @@ Contact with me via these platforms!
 
 <h2> 🛠 Technologies & Tools </h2>
 
+<a  href="#"> <img src="https://user-images.githubusercontent.com/81221395/146983435-5eb97615-fb11-473e-a867-cd1b91830767.png" width="70"/> </a>
+<a href="#"> <img width="15" /> </a>
+<a  href="#"> <img src="https://user-images.githubusercontent.com/81221395/146984601-b68cc866-2940-42e4-a7b3-43714159ae43.png" width="64" /> </a>
+<a href="#"> <img width="30" /> </a>
+<a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146985591-f7571872-8ff9-481c-a319-bc9c22599bac.png" width="70" /> </a>
+<a href="#"> <img width="30" /> </a>
+<a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146989497-8eb29f04-66ec-4b90-92de-d26ce36d82cf.png" width="100" /> </a>
+<a href="#"> <img width="25" /> </a>
+<a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146984645-5ed44277-9c5d-4c42-8f61-1d91354f1b21.png" width="50" /> </a>
+<a href="#"> <img width="35" /> </a>
+<a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146987659-f9910f56-b0fa-4215-8bfb-b3e9bd8ae8dd.png" width="70" /> </a>
+<a href="#"> <img width="30" /> </a>
+<a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146985762-8b0ac60d-a219-4c54-848f-88604b6a542d.png" width="110" /> </a>
+<a href="#"> <img width="15" /> </a>
+<a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146988241-e9b117b4-745a-4d71-bc41-752e6f04f2b2.png" width="100" /> </a>
+<a href="#"> <img width="15" /> </a>
+<a href="#"> <img src="https://user-images.githubusercontent.com/81221395/146989183-9990ea5b-4e8e-4cfd-95b9-6479af83f2fb.png" width="55" /> </a>
 
-
-<a href="#"> <img src= "https://miro.medium.com/max/1400/1*jMQ9lkY5SBnbcOlJB4aizg.png" width="100" height="28" /> </a>
-<a href="#"> <img src="https://camo.githubusercontent.com/1994e9cf3b0ad01831975faafe9e8c7ead09cf24b8d5fb6ca45a5d38b4d33549/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465"/> </a>
-<a href="#"> <img src="https://camo.githubusercontent.com/dfc69d704694f22168bea3d84584663777fa5301dcad5bbcb5459b336da8d554/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465"/> </a>
-<a href="#"> <img src= "https://yazilimamelesi.files.wordpress.com/2013/03/java_logo.jpg" width="65" height="28" /> </a>
-<a href="#"> <img src="https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"/> </a>
-<a href="#"> <img src="https://camo.githubusercontent.com/4cfe18471a1e04d323974c7ff4e71b9ea2308d32a660d7b5c9b7f895e9d8e05f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446172742d3031373543323f7374796c653d666f722d7468652d6261646765266c6f676f3d64617274266c6f676f436f6c6f723d7768697465"/> </a>
-<a href="#"> <img src="https://camo.githubusercontent.com/72e92f69f36703548704a9eeda2a9889c2756b5e08f01a9aec6e658c148d014e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3445413934423f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"/> </a>
-<a href="#"> <img src="https://1.bp.blogspot.com/-y_mI3cvoo4Q/XJfM3e9jdAI/AAAAAAAAOoQ/X2mzom0BQLwwKLWys2BeMec0qewsIyifwCLcBGAs/s1600/Screen%2BShot%2B2019-03-24%2Bat%2B19.28.58.png" width="115.75" height="28" /> </a>
-<a href="#"> <img src="https://camo.githubusercontent.com/783c0ba99432e0f18a998dbbcb3fb46a3f0bb564751c08bbaf138189716c1643/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416d617a6f6e5f4157532d3233324633453f7374796c653d666f722d7468652d6261646765266c6f676f3d616d617a6f6e2d617773266c6f676f436f6c6f723d7768697465"/> </a>
+</br>
 
 ![devSuatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSuatt&count_private=true&hide=contribs,prs&show_icons=true&theme=tokyonight)
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSuatt&layout=compact)](https://github.com/devSuatt/devSuatt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSuatt&layout=compact&theme=tokyonight)](https://github.com/devSuatt/devSuatt)
 
 </br>
 
