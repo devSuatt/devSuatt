@@ -43,4 +43,8 @@ Contact with me via these platforms!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSuatt&layout=compact&theme=tokyonight)](https://github.com/devSuatt/devSuatt)
 
 </br>
+</br>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=devsuatt&&style=flat-square" align="center" />
+</div>
