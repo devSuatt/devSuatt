@@ -32,8 +32,6 @@ Contact with me via these platforms!
 <a href="#"> <img width="15" /> </a>
 <a href="https://www.mongodb.com/"> <img src="https://user-images.githubusercontent.com/81221395/146989183-9990ea5b-4e8e-4cfd-95b9-6479af83f2fb.png" width="55" /> </a>
 
-
-
 </br>
 
 ![devSuatt's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSuatt&count_private=true&hide=contribs,prs&show_icons=true&theme=tokyonight)
